@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1367250420 source:c:\users\juliano\workspacecodeblocks\ordenacao\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1404089154 source:c:\users\juliano\workspacecodeblocks\ordenacao\insertion_sort.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1371845319 source:c:\users\juliano\workspacecodeblocks\ordenacao\merge_sort.cpp
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1367639290 source:c:\users\juliano\workspacecodeblocks\ordenacao\merge_sort_point.cpp
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1418246565 source:c:\users\juliano\workspacecodeblocks\ordenacao\bubble_sort.cpp
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1383178203 source:c:\users\juliano\workspacecodeblocks\ordenacao\buble_sort_ind.c
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1384984779 source:c:\users\juliano\workspacecodeblocks\ordenacao\teste_tempo.cpp
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1434500533 source:c:\users\juliano\workspacecodeblocks\ordenacao\exercicio_tempo_ordenacao.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"metodos_ordenacao.h"
+	"funcoes_gerais.h"
+
+1434500244 c:\users\juliano\workspacecodeblocks\ordenacao\metodos_ordenacao.h
+
+1434500507 source:c:\users\juliano\workspacecodeblocks\ordenacao\metodos_ordenacao.c
+	<stdio.h>
+	"metodos_ordenacao.h"
+	"funcoes_gerais.h"
+
+1434501781 c:\users\juliano\workspacecodeblocks\ordenacao\funcoes_gerais.h
+	<time.h>
+
+1433884155 source:c:\users\juliano\workspacecodeblocks\ordenacao\funcoes_gerais.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	"funcoes_gerais.h"
+
+1434500533 source:c:\users\0046697\desktop\aulas-estruturas_dados\ordenacao\exercicio_tempo_ordenacao.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"metodos_ordenacao.h"
+	"funcoes_gerais.h"
+
+1465338896 c:\users\0046697\desktop\aulas-estruturas_dados\ordenacao\metodos_ordenacao.h
+
+1465338859 c:\users\0046697\desktop\aulas-estruturas_dados\ordenacao\funcoes_gerais.h
+	<time.h>
+
+1433884155 source:c:\users\0046697\desktop\aulas-estruturas_dados\ordenacao\funcoes_gerais.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	"funcoes_gerais.h"
+
+1465338887 source:c:\users\0046697\desktop\aulas-estruturas_dados\ordenacao\metodos_ordenacao.c
+	<stdio.h>
+	"metodos_ordenacao.h"
+	"funcoes_gerais.h"
+
